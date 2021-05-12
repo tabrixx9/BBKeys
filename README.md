@@ -10,3 +10,6 @@ Project Settings -> Autoload -> Add -> Select bbkeys.gd -> Enable
 # Example:
 `BBKeys.return_keymage("Keyboard & Mouse", "A", 64, 64)`
 Layout, KeyName, Width, Height
+
+__Final Result: __
+![image](https://user-images.githubusercontent.com/49753411/118000513-2a147b00-b346-11eb-9f2d-b81575c06166.png)
