@@ -5,6 +5,7 @@ __**Contains key icons (keycons) made by Nicolae (Xelu) Berbece [Contact nick@th
 You are free to use this project, modify or interact, without permission, use this project for personal or commercial purposes.
 
 # How to use?
+Download with keycons located in Releases (at the right of your screen)
 Project Settings -> Autoload -> Add -> Select bbkeys.gd -> Enable
 
 # Example:
