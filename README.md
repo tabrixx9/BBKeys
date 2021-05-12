@@ -8,6 +8,7 @@ You are free to use this project, modify or interact, without permission, use th
 Download with keycons located in Releases (at the right of your screen)
 Project Settings -> Autoload -> Add -> Select bbkeys.gd -> Enable
 
+**Remember to enable BBcode on your Rich Label Text !**
 # Example:
 `BBKeys.return_keymage("Keyboard & Mouse", "A", 64, 64)`
 Layout, KeyName, Width, Height
