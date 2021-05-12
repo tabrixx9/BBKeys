@@ -1,5 +1,5 @@
 # BBKeys
-BBKeys is a simple key in text returner using BBCode.
+BBKeys is a simple key in text returner using BBCode for the opensource 2D/3D game engine Godot.
 __**Contains key icons (keycons) made by Nicolae (Xelu) Berbece [Contact nick@thoseawesomeguys.com or @xelubest] licensed on CC0.**__ 
 
 You are free to use this project, modify or interact, without permission, use this project for personal or commercial purposes.
