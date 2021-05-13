@@ -45,7 +45,7 @@ func _ready():
 			if !layout_exists(layout):
 				if debug_prints:
 					push_error("[BBKeys] Error: layout index \"" + layout + "\" does not exist, disabling itself." )
-					enabled = false
+				enabled = false
 				return
 			else:
 				print("[BBKeys] Layout " + layout + " has been succesfully initiated.")
